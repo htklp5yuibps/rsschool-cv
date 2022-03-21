@@ -8,4 +8,4 @@
 + HTML
 + CSS
 ## SUMMARY
-I`m a junior IT specialist
+I`m a junior IT specialist and i like coding
